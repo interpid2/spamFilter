@@ -1,8 +1,3 @@
-#Pokrenut nltk.download() gdje je skinut
-#punkt - tokenizer model
-#stopwords corpus
-#WordNet za WordNetLemmatizer
-
 import matplotlib.pyplot as plt
 import numpy as np
 import re
